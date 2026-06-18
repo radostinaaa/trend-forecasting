@@ -1,0 +1,10 @@
+# scikit-learn is used only as a validation baseline
+
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# To run the notebooks
+jupyter
+ipykernel
