@@ -1,0 +1,5 @@
+metric,value
+test_accuracy_pca50,0.811
+n_components_90pct_var,80.0
+n_components_95pct_var,176.0
+n_pixels_original,784.0
