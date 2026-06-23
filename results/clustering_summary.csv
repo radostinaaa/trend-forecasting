@@ -1,0 +1,5 @@
+metric,value
+best_k_by_silhouette,3.0
+best_silhouette,0.227
+purity_at_k10,0.5703
+inertia_k10,136230.7
